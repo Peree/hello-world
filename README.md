@@ -2,4 +2,4 @@
 First Github Project
 
 ## About Me
-My name is Peree.
+My name is Pere.
